@@ -23,7 +23,7 @@
     "@modelcontextprotocol/sdk": "^1.25.2",
     "@types/inquirer": "^8.2.12",
     "abort-controller": "^3.0.0",
-    "axios": "^1.8.2",
+    "axios": "^1.13.2",
     "inquirer": "^8.2.7"
   },
   "devDependencies": {
